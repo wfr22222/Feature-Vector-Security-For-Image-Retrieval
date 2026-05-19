@@ -1,0 +1,29 @@
+# 大型数据文件
+*.txt
+*.enc
+*.bin
+*.dat
+*.h5
+*.pth
+*.pt
+*.pkl
+*.model
+*.weights
+*.tar
+*.zip
+*.rar
+*.7z
+
+# 特征向量文件（你的超大文件）
+resnet50_shturl.cc/n
+secure_shturl.cc/7CtRA
+
+# 运行缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
+.idea/
+.vscode/
