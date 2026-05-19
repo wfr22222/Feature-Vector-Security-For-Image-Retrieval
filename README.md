@@ -16,14 +16,14 @@
 
 
 项目声明
-·项目名称:面向图像检索系统的特征向量安全防护模块设计与实现
-·项目作者:Wang Furong
-·作者单位:暨南大学网络空间安全学院
-·开发语言:Python
-·深度学习框架：PyTorch、Torchvision
-·前端交互：Gradio
-·加密算法：AES-256-GCM、SHA-256
-·依赖库：Pillow、NumPy、PyCryptodome、tqdm
+- 项目名称:面向图像检索系统的特征向量安全防护模块设计与实现
+- 项目作者:Wang Furong
+- 作者单位:暨南大学网络空间安全学院
+- 开发语言:Python
+- 深度学习框架：PyTorch、Torchvision
+- 前端交互：Gradio
+- 加密算法：AES-256-GCM、SHA-256
+- 依赖库：Pillow、NumPy、PyCryptodome、tqdm
 
 
 
